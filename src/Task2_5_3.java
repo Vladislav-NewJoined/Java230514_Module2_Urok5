@@ -4,7 +4,6 @@ public class Task2_5_3 {
     public static void main(String[] args) {
         System.out.println("Задание: \n3.\tСохраните 10 строк в массив, выведите с конца каждую вторую\n\nРешение: ");
 
-
         System.out.println("Сохраняем 10 строк в массив: ");
         String[] a = new String[10];
         a[0] = "Строка один";
